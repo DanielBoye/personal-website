@@ -24,5 +24,5 @@ document.querySelector("h1").onmouseover = event => {
     }
     
     iteration += 1 / 3;
-  }, 80);
+  }, 30);
 }
